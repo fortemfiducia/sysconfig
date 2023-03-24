@@ -1,5 +1,7 @@
 # sisyphus
 
+**This repository is deprecated: find the new repo [here](https://git.depeuter.dev/tdpeuter/sisyphus).**
+
 Complete guide and configuration of my machine.
 
 ## My system
